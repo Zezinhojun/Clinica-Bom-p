@@ -1,0 +1,18 @@
+.nav-link:hover {
+    color: blueviolet;
+}
+
+.main {
+    margin-top: 14rem;
+}
+
+.navbar-collapse {
+    background-color: transparent;
+    color: initial;
+
+}
+
+.navbar-collapse.show {
+    background-color: #fff;
+    color: #000;
+}
